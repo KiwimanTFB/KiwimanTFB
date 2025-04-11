@@ -33,15 +33,7 @@ My name is Gaël Mocellin, and I am a student in the Bachelor's program in Multi
 
 ---
 
-### Media
-
-[![My GIF](https://media.giphy.com/media/ton-gif-url/giphy.gif)](https://videos.pexels.com/video-files/2759484/2759484-uhd_2560_1440_30fps.mp4)
-
----
-
 ### About Me
-
-Add here a few sentences about your passions, current projects, or what you're looking for (collaborations, personal projects, etc.). You can use lists or tables if needed.
 
 - 🔭 I am currently working on completing my first year of bachelor’s degree.
 - 🌱 Right now, I’m fully into aquaristics.
