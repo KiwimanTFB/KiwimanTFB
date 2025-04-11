@@ -4,8 +4,8 @@ My name is Gaël Mocellin, and I am a student in the Bachelor's program in Multi
 
 
 ##🌐 Website
-![Mon Portfolio](https://portfolio.gmocellin.com)
-![CV](https://cv.gmocellin.com)
+[Mon Portfolio](https://portfolio.gmocellin.com)
+[CV](https://cv.gmocellin.com)
 
 ![Langage préféré - JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Langage préféré - CSS](https://img.shields.io/badge/CSS-blue)
@@ -13,7 +13,11 @@ My name is Gaël Mocellin, and I am a student in the Bachelor's program in Multi
 
 ![Éditeur](https://img.shields.io/badge/VSCode-blue)
 
-![Mon GIF]([https://media.giphy.com/media/ton-gif-url/giphy.gif](https://videos.pexels.com/video-files/2759484/2759484-uhd_2560_1440_30fps.mp4))
+<video width="320" height="240" controls>
+  <source src="https://videos.pexels.com/video-files/2759484/2759484-uhd_2560_1440_30fps.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/tonprofil">
