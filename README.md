@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+![Langage préféré](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Éditeur](https://img.shields.io/badge/VSCode-blue)
+
+
 <!--
 **KiwimanTFB/KiwimanTFB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
