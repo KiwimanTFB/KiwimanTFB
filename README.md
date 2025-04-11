@@ -4,8 +4,8 @@ My name is Gaël Mocellin, and I am a student in the Bachelor's program in Multi
 
 
 ##🌐 Website
-![Mon Portfolio](portfolio.gmocellin.com)
-![CV](cv.gmocellin.com)
+![Mon Portfolio](https://portfolio.gmocellin.com)
+![CV](https://cv.gmocellin.com)
 
 ![Langage préféré - JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Langage préféré - CSS](https://img.shields.io/badge/CSS-blue)
