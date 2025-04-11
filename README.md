@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My name is Gaël Mocellin, and I am a student in the Bachelor's program in Multimedia and Internet Professions (BUT MMI) in Vélizy.
+Contact : contact@gmocellin.com
 
 ---
 
