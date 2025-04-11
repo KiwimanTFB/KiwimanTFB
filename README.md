@@ -4,15 +4,16 @@ My name is Gaël Mocellin, and I am a student in the Bachelor's program in Multi
 
 
 ##🌐 Website
-Portfolio
+![Mon Portfolio](portfolio.gmocellin.com)
+![CV](cv.gmocellin.com)
 
-![Langage préféré](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Langage préféré - JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Langage préféré - CSS](https://img.shields.io/badge/CSS-blue)
+![Langage préféré - SQL](https://img.shields.io/badge/SQL-orange)
+
 ![Éditeur](https://img.shields.io/badge/VSCode-blue)
 
-![Mon GIF](https://media.giphy.com/media/ton-gif-url/giphy.gif)
-
-## 👨‍💻 À propos de moi
-Passionné par le développement web et les nouvelles technologies.
+![Mon GIF]([https://media.giphy.com/media/ton-gif-url/giphy.gif](https://videos.pexels.com/video-files/2759484/2759484-uhd_2560_1440_30fps.mp4))
 
 <p align="center">
   <a href="https://linkedin.com/in/tonprofil">
