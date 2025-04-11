@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Gaël Mocellin, and I am a student in the Bachelor's program in Multimedia and Internet Professions (BUT MMI) in Vélizy.
+
+
+
+##🌐 Website
+Portfolio
 
 ![Langage préféré](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![Éditeur](https://img.shields.io/badge/VSCode-blue)
@@ -31,6 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Snake animation](https://github.com/ton-utilisateur/ton-utilisateur/blob/output/github-contribution-grid-snake.svg)
 
